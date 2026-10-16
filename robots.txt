@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:https://https://mehedihasanseyam.github.io/Muhammad-Mustafizur-Rahman/sitemap.xml
